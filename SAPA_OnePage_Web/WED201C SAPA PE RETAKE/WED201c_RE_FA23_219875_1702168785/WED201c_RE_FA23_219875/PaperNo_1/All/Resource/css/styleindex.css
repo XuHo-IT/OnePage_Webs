@@ -1,0 +1,64 @@
+.content_header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+/* .content_header img{
+    margin-left: -200px;
+} */
+.content_header input{
+    margin-top: 15px;
+    width: 700px;
+}
+/* .content_header h3{
+   padding-left:400px 
+} */
+#check{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.banner img{
+    width: 100%;
+    margin-top: -20px;
+}
+.title{
+  text-align: center;
+  color: #0EC0C3;
+
+}
+.footer{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background-color: #0EC0C3;
+    color:white;
+    text-align: center;
+}
+.tour_01 img{
+  width: 100%;
+  padding-bottom: 20px;
+}
+.h2, h2 {
+    font-size: 30px;
+    color: #B8DFB3;
+}
+.h4, h4 {
+    font-size: 18px;
+    color: #C4773C;
+}
+p.book_btn {
+    background-color: #0EC0C3;
+    display: inline;
+    color:white;
+    padding: 10px;
+}
+.registration h2{
+    color: #0EC0C3;
+}
+.registration label{
+    color:#B8DFB3 ;
+}
+.registration button{
+    background-color: #C4773C;
+    color:white;
+}

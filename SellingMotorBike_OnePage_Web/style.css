@@ -1,0 +1,60 @@
+.footer{
+  background-color: #0EBBC0; 
+  color: white; 
+  padding: 10px; 
+  text-align: center;
+}
+
+.title{
+    color:#0EBBC0;
+    text-align: center;
+    padding: 20px 0;
+}
+.search{
+    margin-top: 10%;
+}
+.feedback{
+    margin-top: 9%;
+}
+.logo{
+    margin-top: 50px;
+}
+.logo img{
+    padding-left: 50px;
+    height: 150px;
+}
+.ab img{
+  margin-left: 60px;
+  margin-top: 50px;
+  height: 400px;
+}
+.vs-sh img{
+    width: 50%;
+}
+p{
+    font-size: 15px;
+}
+.menu-list{
+    margin-left: 30%;
+}
+.menu-list li{
+    padding: 0 20px;
+}
+.vario img{
+    margin-left: 60px;
+    margin-top: 50px;
+    height: 500px;
+    width: 650px;
+}
+.info :first-child{
+    color: #ED8116;
+}
+.img-1 img{
+   padding-left: 70px;
+}
+.img-2 img{
+    padding-left: 50px;
+}
+.Accessories h3,h4{
+    color: #ED8116;
+}

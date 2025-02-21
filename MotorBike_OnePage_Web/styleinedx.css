@@ -1,0 +1,60 @@
+.content-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    margin-bottom: 20px;
+}
+.search-width{
+    width: 30%;
+}
+.content-header h3{
+    color: red;
+    font-style: italic;  /*in nghieng*/
+    margin-left: 50px;
+}
+.content-header img{
+    width: 80%;
+}
+.navbar-menu{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.airbalde :first-child{
+    color: #0EC0C3;
+   text-align: center;
+}
+.airbalde :nth-child(3) img,
+.airbalde :nth-child(4) img{
+    width: 80%;
+}
+.airbalde :nth-child(2) img{
+    width: 60%;
+}
+.airblade h1{
+    text-align: center;
+    color: #0EC0C3;
+}
+.airblade img{
+    width: 80%;
+}
+.airblade :nth-child(3) img{
+    width: 60%;
+}
+.airblade h3{
+    color: #FFD17E;
+}
+.infor h1{
+    text-align:center;
+    color:#0EC0C3
+}
+.infor img{
+    text-align: center;
+    margin-left: 100px;
+}
+.footer{
+     margin-top: 10px;
+    text-align: center;
+    background-color: #0EC0C3;
+    color: white;
+}

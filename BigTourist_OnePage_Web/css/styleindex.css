@@ -1,0 +1,93 @@
+#logo{
+    text-align: center;
+    margin-bottom: 5px;
+}
+#menu{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+h1{
+    color: #10C1C1;
+    text-align: center;
+    margin: 20px 0;
+    
+}
+
+#title-hung-phat{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#image-hung-phat{
+    text-align: center;
+    
+}
+
+#image-hung-phat img{
+   width: 100%;
+   display: grid;
+}
+
+#text-hung-phat{
+    align-items: center;
+}
+.estate-title{
+    text-align: center;
+    margin: 50px 0;
+}
+
+#hcm img{
+    width: 100%;
+}
+
+.imgsmall{
+    width: 100%;
+    margin-bottom: 20px;
+    height: 135px;
+}
+
+
+.location-text{
+    position: absolute;
+    top: 0;
+    left: 25px;
+    color: white;
+}
+
+.house-image{
+    width: 100%;
+    height: 200px;
+}
+.information{
+text-align: center;
+margin: 0 auto;
+color: orange;
+}
+
+.footer{
+    background-color:#0FC0C5;
+    text-align: center;
+    padding: 10px 0;
+    color: white;
+}
+
+.affordable{
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    #menu{
+        display: flex;
+        justify-content: flex-end;
+    }
+    .hung-phat-text{
+        margin-top: 10px;
+    }
+    #imgsub img{
+        width: 100%;
+        height: 387px;
+        margin-top: 20px;
+    }
+}
